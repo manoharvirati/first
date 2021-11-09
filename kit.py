@@ -11,4 +11,4 @@ import time
 
 #kit.info("gold")
 
-kit.text_to_handwriting("Welcom to this channel",rgb=(0,0,138))
+#kit.text_to_handwriting("Welcom to this channel",rgb=(0,0,138))
